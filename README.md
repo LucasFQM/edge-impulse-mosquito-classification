@@ -1,4 +1,4 @@
-# edge-impulse-mosquito-classification
+# edge-impulse-mosquito-identification
 
 This repository provides the official public link to the project used in the study:
 
