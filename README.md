@@ -26,15 +26,15 @@ Because all experiments were conducted directly within the Edge Impulse platform
 To reproduce the results, simply open the public project link above.
 Edge Impulse provides:
 
-Dataset samples and class distribution
+- Dataset samples and class distribution
 
-Preprocessing and data augmentation configuration
+- Preprocessing and data augmentation configuration
 
-Model architectures (MobileNetV2 / EfficientNet-B0)
+- Model architectures (MobileNetV2 / EfficientNet-B0)
 
-Confusion matrices and per-class metrics
+- Confusion matrices and per-class metrics
 
-Export options for the trained models
+- Export options for the trained models
 
 No additional setup is required.
 
